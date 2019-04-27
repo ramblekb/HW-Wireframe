@@ -1,0 +1,18 @@
+.paragraph-one {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+
+.paragraph-one:hover {
+    color: aqua;
+}
+
+.header-one:hover {
+    color: red;
+}
+
+.btn:hover {
+    color: pink
+}
+
+
